@@ -1,0 +1,17 @@
+D:\_Developing_\BeforePostingIFP\bin\Debug\BeforePostingIFP.exe.config
+D:\_Developing_\BeforePostingIFP\bin\Debug\BeforePostingIFP.exe
+D:\_Developing_\BeforePostingIFP\bin\Debug\BeforePostingIFP.pdb
+D:\_Developing_\BeforePostingIFP\bin\Debug\fa-IR\BeforePostingIFP.resources.dll
+D:\_Developing_\BeforePostingIFP\bin\Debug\pl\BeforePostingIFP.resources.dll
+D:\_Developing_\BeforePostingIFP\obj\Debug\BeforePostingIFP.csproj.AssemblyReference.cache
+D:\_Developing_\BeforePostingIFP\obj\Debug\BeforePostingIFP.csproj.SuggestedBindingRedirects.cache
+D:\_Developing_\BeforePostingIFP\obj\Debug\BeforePostingIFP.Form1.resources
+D:\_Developing_\BeforePostingIFP\obj\Debug\BeforePostingIFP.Properties.Resources.resources
+D:\_Developing_\BeforePostingIFP\obj\Debug\BeforePostingIFP.Form1.fa-IR.resources
+D:\_Developing_\BeforePostingIFP\obj\Debug\BeforePostingIFP.Form1.pl.resources
+D:\_Developing_\BeforePostingIFP\obj\Debug\BeforePostingIFP.csproj.GenerateResource.cache
+D:\_Developing_\BeforePostingIFP\obj\Debug\BeforePostingIFP.csproj.CoreCompileInputs.cache
+D:\_Developing_\BeforePostingIFP\obj\Debug\fa-IR\BeforePostingIFP.resources.dll
+D:\_Developing_\BeforePostingIFP\obj\Debug\pl\BeforePostingIFP.resources.dll
+D:\_Developing_\BeforePostingIFP\obj\Debug\BeforePostingIFP.exe
+D:\_Developing_\BeforePostingIFP\obj\Debug\BeforePostingIFP.pdb
